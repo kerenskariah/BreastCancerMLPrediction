@@ -97,3 +97,8 @@ The following output is displayed for each model:
 ## Conclusion
 
 This project demonstrates the application of multiple machine learning models for breast cancer classification, with strong performance across various models. The code provides a basis for comparing different models using various evaluation metrics, helping you select the best approach for cancer prediction tasks.
+
+## Acknowledgments
+
+This project was created with support from the AISC (AI Student Collective) initiative.
+```
