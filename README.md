@@ -101,4 +101,3 @@ This project demonstrates the application of multiple machine learning models fo
 ## Acknowledgments
 
 This project was created with support from the AISC (AI Student Collective) initiative.
-```
